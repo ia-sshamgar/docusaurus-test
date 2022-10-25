@@ -1,0 +1,8 @@
+{
+    "label": "Testing Area",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Add your own page here and play around with Docusaurus."
+    }
+  }
