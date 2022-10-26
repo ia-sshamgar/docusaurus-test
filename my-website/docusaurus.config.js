@@ -39,6 +39,11 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/ia-sshamgar/docusaurus-test',
+          sidebar: {
+            hideable: true,
+            
+
+          }
         },
         blog: false, 
          // showReadingTime: true,
@@ -58,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'User Manual',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -68,7 +73,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'User Manual',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

@@ -48,7 +48,6 @@ The `npm run start` command builds your website locally and serves it through a 
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
 --->
-# Welcome
 ![Header image](\img\Header-wide-2-1800.png)
 
 ## About this User Manual

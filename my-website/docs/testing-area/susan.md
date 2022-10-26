@@ -22,6 +22,8 @@ I can conveniently use <Highlight color="#25c2a0">Docusaurus green</Highlight> e
 
 Let's add some text
 
+Another line goes here 
+
 ## Admonition time
 :::note
 Some information goes here
